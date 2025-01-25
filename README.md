@@ -22,7 +22,8 @@ The system integrates:
 
 ## Hardware Diagram
 
-*(Insert your electronic schematic here)*
+![Hardware Diagram](resources/Circuit.jpg)
+
 
 ## Getting Started
 
